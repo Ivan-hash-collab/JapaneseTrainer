@@ -7,7 +7,14 @@
 
 ## 💎 Функционал на видео
 
-
+<p align="center">
+  <a href="https://youtu.be/wzawEWYZIOw" target="_blank">
+    <img
+      src="https://img.youtube.com/vi/wzawEWYZIOw/hqdefault.jpg"
+      alt="Смотреть демо-видео"
+      width="640">
+  </a>
+</p>
 
 ## 🚀 Ключевые возможности
 
