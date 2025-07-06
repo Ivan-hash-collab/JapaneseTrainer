@@ -1,0 +1,526 @@
+[
+  {
+    "title": "間",
+    "comment": "while; during"
+  },
+  {
+    "title": "間に",
+    "comment": "while; during (with interruption)"
+  },
+  {
+    "title": "あまり〜ない",
+    "comment": "not very; not much"
+  },
+  {
+    "title": "後で",
+    "comment": "after doing"
+  },
+  {
+    "title": "ば",
+    "comment": "if (conditional)"
+  },
+  {
+    "title": "場合は",
+    "comment": "in case; if it happens that..."
+  },
+  {
+    "title": "ばかり",
+    "comment": "only; just"
+  },
+  {
+    "title": "だけで",
+    "comment": "just by; only by"
+  },
+  {
+    "title": "出す",
+    "comment": "to start doing suddenly"
+  },
+  {
+    "title": "でございます",
+    "comment": "polite form of です"
+  },
+  {
+    "title": "でも",
+    "comment": "even; or something like"
+  },
+  {
+    "title": "ではないか",
+    "comment": "don't you think...?; isn't it?"
+  },
+  {
+    "title": "が必要",
+    "comment": "need to; necessity"
+  },
+  {
+    "title": "がする",
+    "comment": "to feel; to smell; to taste"
+  },
+  {
+    "title": "がる・がっている",
+    "comment": "shows signs of (emotion/desire)"
+  },
+  {
+    "title": "がり",
+    "comment": "person prone to ~ (cold, loneliness etc.)"
+  },
+  {
+    "title": "ございます",
+    "comment": "very polite form of ある/いる"
+  },
+  {
+    "title": "始める",
+    "comment": "to begin to ~"
+  },
+  {
+    "title": "はずだ",
+    "comment": "supposed to; expected to"
+  },
+  {
+    "title": "はずがない",
+    "comment": "cannot be; there's no way"
+  },
+  {
+    "title": "必要がある",
+    "comment": "it is necessary to ~"
+  },
+  {
+    "title": "意向形",
+    "comment": "volitional form (let's do..., I will...)"
+  },
+  {
+    "title": "いらっしゃる",
+    "comment": "honorific form of 来る/いる/行く"
+  },
+  {
+    "title": "いたします",
+    "comment": "humble form of する"
+  },
+  {
+    "title": "じゃないか",
+    "comment": "isn't it...?; right?"
+  },
+  {
+    "title": "かどうか",
+    "comment": "whether or not"
+  },
+  {
+    "title": "かしら",
+    "comment": "I wonder (used by women)"
+  },
+  {
+    "title": "かい",
+    "comment": "question particle (informal)"
+  },
+  {
+    "title": "かもしらない",
+    "comment": "might; may"
+  },
+  {
+    "title": "かな",
+    "comment": "I wonder (casual)"
+  },
+  {
+    "title": "で／から 作る",
+    "comment": "made with / made from"
+  },
+  {
+    "title": "きっと",
+    "comment": "surely; definitely"
+  },
+  {
+    "title": "頃",
+    "comment": "around (time); about"
+  },
+  {
+    "title": "こと",
+    "comment": "thing; action (nominalizer)"
+  },
+  {
+    "title": "ことがある",
+    "comment": "have the experience of ~"
+  },
+  {
+    "title": "ことができる",
+    "comment": "can do; be able to"
+  },
+  {
+    "title": "ことになる",
+    "comment": "it has been decided that..."
+  },
+  {
+    "title": "ことにする",
+    "comment": "to decide to do ~"
+  },
+  {
+    "title": "くする／にする",
+    "comment": "to make something ~"
+  },
+  {
+    "title": "急に",
+    "comment": "suddenly"
+  },
+  {
+    "title": "までに",
+    "comment": "by (a time)"
+  },
+  {
+    "title": "まま",
+    "comment": "as it is; remain ~"
+  },
+  {
+    "title": "または",
+    "comment": "or; otherwise"
+  },
+  {
+    "title": "みたいだ",
+    "comment": "seems like; appears"
+  },
+  {
+    "title": "みたいな",
+    "comment": "like ~; similar to ~ (noun modifier)"
+  },
+  {
+    "title": "みたいに",
+    "comment": "like ~; in the manner of (adverbial)"
+  },
+  {
+    "title": "も",
+    "comment": "also; too"
+  },
+  {
+    "title": "な",
+    "comment": "don't do (prohibition)"
+  },
+  {
+    "title": "など",
+    "comment": "etc.; things like"
+  },
+  {
+    "title": "ながら",
+    "comment": "while ~ing (simultaneous actions)"
+  },
+  {
+    "title": "なかなか〜ない",
+    "comment": "hardly; not easily"
+  },
+  {
+    "title": "なければいけない",
+    "comment": "must do; have to"
+  },
+  {
+    "title": "なければならない",
+    "comment": "must; have to (more formal)"
+  },
+  {
+    "title": "なら",
+    "comment": "if; in case of"
+  },
+  {
+    "title": "なさる",
+    "comment": "honorific form of する"
+  },
+  {
+    "title": "に気がつく",
+    "comment": "to notice; to realize"
+  },
+  {
+    "title": "にみえる",
+    "comment": "to look; to appear"
+  },
+  {
+    "title": "にくい",
+    "comment": "difficult to do"
+  },
+  {
+    "title": "の中で",
+    "comment": "among; within"
+  },
+  {
+    "title": "のに",
+    "comment": "even though; despite"
+  },
+  {
+    "title": "のは〜だ",
+    "comment": "it is ~ that ..."
+  },
+  {
+    "title": "お〜ください",
+    "comment": "please do ~ (honorific)"
+  },
+  {
+    "title": "お〜になる",
+    "comment": "honorific expression for actions"
+  },
+  {
+    "title": "おきに",
+    "comment": "every (interval)"
+  },
+  {
+    "title": "おる",
+    "comment": "humble form of いる"
+  },
+  {
+    "title": "終わる",
+    "comment": "to finish doing"
+  },
+  {
+    "title": "られる",
+    "comment": "passive form / potential form"
+  },
+  {
+    "title": "らしい",
+    "comment": "seems; I heard that ~"
+  },
+  {
+    "title": "さ",
+    "comment": "-ness; degree (from i-adjective)"
+  },
+  {
+    "title": "さっき",
+    "comment": "a little while ago"
+  },
+  {
+    "title": "させる",
+    "comment": "to make/let someone do (causative)"
+  },
+  {
+    "title": "させられる",
+    "comment": "to be made to do (causative-passive)"
+  },
+  {
+    "title": "させてください",
+    "comment": "please let me do ~"
+  },
+  {
+    "title": "さすが",
+    "comment": "as expected; indeed"
+  },
+  {
+    "title": "し",
+    "comment": "and; because (reason listing)"
+  },
+  {
+    "title": "しか〜ない",
+    "comment": "nothing but; only"
+  },
+  {
+    "title": "そんなに",
+    "comment": "so much; so (emphatic)"
+  },
+  {
+    "title": "それでも",
+    "comment": "even so; nevertheless"
+  },
+  {
+    "title": "それに",
+    "comment": "in addition; moreover"
+  },
+  {
+    "title": "そうだ",
+    "comment": "I heard that ~"
+  },
+  {
+    "title": "そうだ",
+    "comment": "I heard that ~"
+  },
+  {
+    "title": "そうに・そうな",
+    "comment": "look like; appear to be"
+  },
+  {
+    "title": "たばかり",
+    "comment": "just did; just finished"
+  },
+  {
+    "title": "たところ",
+    "comment": "just finished doing"
+  },
+  {
+    "title": "他動詞＆自動詞",
+    "comment": "transitive & intransitive verbs"
+  },
+  {
+    "title": "たがる",
+    "comment": "seems to want (3rd person)"
+  },
+  {
+    "title": "たら",
+    "comment": "if; when (conditional)"
+  },
+  {
+    "title": "たらどう",
+    "comment": "why don’t you ~ ?"
+  },
+  {
+    "title": "たら／は いいですか",
+    "comment": "should I ~ ? / would it be good if ~ ?"
+  },
+  {
+    "title": "て／で",
+    "comment": "te-form (conjunction/command/etc.)"
+  },
+  {
+    "title": "てあげる",
+    "comment": "do something for someone"
+  },
+  {
+    "title": "てほしい",
+    "comment": "want someone to ~"
+  },
+  {
+    "title": "ていく",
+    "comment": "to go on doing; away from speaker"
+  },
+  {
+    "title": "ていた",
+    "comment": "was doing (past progressive)"
+  },
+  {
+    "title": "ていただけませんか",
+    "comment": "would you please (very polite)"
+  },
+  {
+    "title": "てくれる",
+    "comment": "to do something for me"
+  },
+  {
+    "title": "てくる",
+    "comment": "come doing; toward the speaker"
+  },
+  {
+    "title": "てみる",
+    "comment": "try doing something"
+  },
+  {
+    "title": "てもらう",
+    "comment": "get someone to do ~"
+  },
+  {
+    "title": "ておく",
+    "comment": "do something in advance"
+  },
+  {
+    "title": "てしまう／ちゃう",
+    "comment": "to do completely; unfortunately"
+  },
+  {
+    "title": "てすみません",
+    "comment": "sorry for ~ing"
+  },
+  {
+    "title": "てやる",
+    "comment": "do for (casual, speaker to inferior)"
+  },
+  {
+    "title": "てよかった",
+    "comment": "glad I did ~"
+  },
+  {
+    "title": "ているところ",
+    "comment": "in the middle of ~ing"
+  },
+  {
+    "title": "ても・でも",
+    "comment": "even if; even though"
+  },
+  {
+    "title": "と",
+    "comment": "if/when; and (quotes/with)"
+  },
+  {
+    "title": "と言ってもいい",
+    "comment": "you could say that ~"
+  },
+  {
+    "title": "という",
+    "comment": "called; named; that says"
+  },
+  {
+    "title": "と言われている",
+    "comment": "it is said that ~"
+  },
+  {
+    "title": "と聞いた",
+    "comment": "I heard that ~"
+  },
+  {
+    "title": "と思う",
+    "comment": "I think that ~"
+  },
+  {
+    "title": "とか〜とか",
+    "comment": "such as ~ and ~"
+  },
+  {
+    "title": "ところ",
+    "comment": "about to do; in the middle of; just did"
+  },
+  {
+    "title": "続ける",
+    "comment": "to continue doing"
+  },
+  {
+    "title": "って",
+    "comment": "casual quoting particle (と)"
+  },
+  {
+    "title": "受身形",
+    "comment": "passive form"
+  },
+  {
+    "title": "は〜が… は",
+    "comment": "topic and subject contrast structure"
+  },
+  {
+    "title": "やすい",
+    "comment": "easy to do"
+  },
+  {
+    "title": "やっと",
+    "comment": "finally; at last"
+  },
+  {
+    "title": "より",
+    "comment": "than; compared to"
+  },
+  {
+    "title": "予定だ",
+    "comment": "plan to ~"
+  },
+  {
+    "title": "ようだ",
+    "comment": "it seems that ~"
+  },
+  {
+    "title": "ように／ような",
+    "comment": "in order to; like ~"
+  },
+  {
+    "title": "ようになる",
+    "comment": "to reach the point where ~"
+  },
+  {
+    "title": "ようにする",
+    "comment": "try to; make an effort to"
+  },
+  {
+    "title": "ようと思う",
+    "comment": "I think I will ~"
+  },
+  {
+    "title": "ぜひ",
+    "comment": "by all means; definitely"
+  },
+  {
+    "title": "全然~ない",
+    "comment": "not at all"
+  },
+  {
+    "title": "ぜんぜん",
+    "comment": "completely; entirely"
+  },
+  {
+    "title": "づらい",
+    "comment": "hard to do; painful to do"
+  }
+]

@@ -1,0 +1,838 @@
+[
+  {
+    "title": "あげる・あがる",
+    "comment": "to give / to rise; transitive-intransitive pair"
+  },
+  {
+    "title": "あまり～ない",
+    "comment": "not very; not much"
+  },
+  {
+    "title": "あまり（にも）",
+    "comment": "too much; excessively"
+  },
+  {
+    "title": "（の）あまり",
+    "comment": "because of too much ~"
+  },
+  {
+    "title": "当たり",
+    "comment": "per; hit; success"
+  },
+  {
+    "title": "合う",
+    "comment": "to do together; to suit each other"
+  },
+  {
+    "title": "ばいい",
+    "comment": "should; it would be good if"
+  },
+  {
+    "title": "ばよかった",
+    "comment": "should have; would have been better if"
+  },
+  {
+    "title": "ばほど",
+    "comment": "the more ~ the more ~"
+  },
+  {
+    "title": "ばのに",
+    "comment": "if only ~; I wish ~"
+  },
+  {
+    "title": "ばかりで",
+    "comment": "only ~; just"
+  },
+  {
+    "title": "ばかりではなく",
+    "comment": "not only ~ but also"
+  },
+  {
+    "title": "べきだ",
+    "comment": "should; ought to"
+  },
+  {
+    "title": "べきではない",
+    "comment": "should not; must not"
+  },
+  {
+    "title": "べつにない",
+    "comment": "not particularly; not really"
+  },
+  {
+    "title": "ぶりに",
+    "comment": "for the first time in ~"
+  },
+  {
+    "title": "中",
+    "comment": "during; throughout"
+  },
+  {
+    "title": "だけ",
+    "comment": "only; just"
+  },
+  {
+    "title": "だけでなく",
+    "comment": "not only ~ but also"
+  },
+  {
+    "title": "だけしか",
+    "comment": "only; nothing but"
+  },
+  {
+    "title": "だけど",
+    "comment": "but; however"
+  },
+  {
+    "title": "だらけ",
+    "comment": "full of; covered with (neg.)"
+  },
+  {
+    "title": "である",
+    "comment": "formal form of です / だ"
+  },
+  {
+    "title": "で言うと",
+    "comment": "in terms of; from the perspective of"
+  },
+  {
+    "title": "でよければ",
+    "comment": "if ~ is okay; if you don't mind"
+  },
+  {
+    "title": "どんなに～ても",
+    "comment": "no matter how much"
+  },
+  {
+    "title": "どうしても",
+    "comment": "no matter what; by all means"
+  },
+  {
+    "title": "ふりをする",
+    "comment": "to pretend"
+  },
+  {
+    "title": "ふと",
+    "comment": "suddenly; unexpectedly"
+  },
+  {
+    "title": "がち",
+    "comment": "tend to; prone to"
+  },
+  {
+    "title": "がたい",
+    "comment": "difficult to do"
+  },
+  {
+    "title": "ぎみ",
+    "comment": "slightly; a little"
+  },
+  {
+    "title": "ごとに",
+    "comment": "every; each"
+  },
+  {
+    "title": "ほど",
+    "comment": "to the extent of; about"
+  },
+  {
+    "title": "ほど～ない",
+    "comment": "not as ~ as"
+  },
+  {
+    "title": "いくら",
+    "comment": "no matter how much"
+  },
+  {
+    "title": "一度に",
+    "comment": "at once; simultaneously"
+  },
+  {
+    "title": "一体",
+    "comment": "what the heck; the whole"
+  },
+  {
+    "title": "言うまでもない",
+    "comment": "it goes without saying"
+  },
+  {
+    "title": "一方だ",
+    "comment": "continuing to; more and more"
+  },
+  {
+    "title": "一方で",
+    "comment": "on the other hand"
+  },
+  {
+    "title": "じゃない",
+    "comment": "isn’t it? (casual)"
+  },
+  {
+    "title": "必ずしも",
+    "comment": "not necessarily"
+  },
+  {
+    "title": "か何か",
+    "comment": "or something"
+  },
+  {
+    "title": "かと言うと",
+    "comment": "if you ask me; if I had to say"
+  },
+  {
+    "title": "かける",
+    "comment": "in the middle of; started but not finished"
+  },
+  {
+    "title": "結果",
+    "comment": "as a result"
+  },
+  {
+    "title": "代わりに",
+    "comment": "instead of; in exchange"
+  },
+  {
+    "title": "決して",
+    "comment": "never; by no means"
+  },
+  {
+    "title": "結局",
+    "comment": "after all; in the end"
+  },
+  {
+    "title": "切る",
+    "comment": "to do completely"
+  },
+  {
+    "title": "切れない",
+    "comment": "too much to finish"
+  },
+  {
+    "title": "切り",
+    "comment": "only; just finished"
+  },
+  {
+    "title": "っけ",
+    "comment": "was it...? (casual recall)"
+  },
+  {
+    "title": "込む",
+    "comment": "to go into; become crowded"
+  },
+  {
+    "title": "こそ",
+    "comment": "for sure; especially"
+  },
+  {
+    "title": "こと",
+    "comment": "nominalizer; thing"
+  },
+  {
+    "title": "ことから",
+    "comment": "because; from the fact that ~"
+  },
+  {
+    "title": "ことなの",
+    "comment": "it's that... (explanatory)"
+  },
+  {
+    "title": "ことはない",
+    "comment": "no need to; don't have to"
+  },
+  {
+    "title": "くらい・ぐらい",
+    "comment": "about; approximately"
+  },
+  {
+    "title": "ことになっている",
+    "comment": "it has been decided that ~"
+  },
+  {
+    "title": "くせに",
+    "comment": "even though (negative judgment)"
+  },
+  {
+    "title": "まるで",
+    "comment": "just like; as if"
+  },
+  {
+    "title": "まさか",
+    "comment": "no way; impossible"
+  },
+  {
+    "title": "めったに～ない",
+    "comment": "rarely; seldom"
+  },
+  {
+    "title": "み",
+    "comment": "-ness; quality (from adjectives)"
+  },
+  {
+    "title": "もしかしたら",
+    "comment": "perhaps; maybe"
+  },
+  {
+    "title": "もしも",
+    "comment": "if; in case"
+  },
+  {
+    "title": "も～ば～も",
+    "comment": "both A and B"
+  },
+  {
+    "title": "向け",
+    "comment": "for; aimed at"
+  },
+  {
+    "title": "向き",
+    "comment": "suitable for; oriented toward"
+  },
+  {
+    "title": "むしろ",
+    "comment": "rather; instead"
+  },
+  {
+    "title": "ながらも",
+    "comment": "although; even though"
+  },
+  {
+    "title": "ないと",
+    "comment": "if not ~; must ~"
+  },
+  {
+    "title": "なかなか",
+    "comment": "very; quite"
+  },
+  {
+    "title": "なかなか～ない",
+    "comment": "not easily; hardly"
+  },
+  {
+    "title": "なんか",
+    "comment": "things like; casual emphasis"
+  },
+  {
+    "title": "なんて",
+    "comment": "such as; how (emphatic)"
+  },
+  {
+    "title": "など",
+    "comment": "etc.; things like"
+  },
+  {
+    "title": "ないことはない",
+    "comment": "it's not that I can't"
+  },
+  {
+    "title": "直す",
+    "comment": "to fix; to do again"
+  },
+  {
+    "title": "なるべく",
+    "comment": "as much as possible"
+  },
+  {
+    "title": "なぜなら",
+    "comment": "because; the reason is"
+  },
+  {
+    "title": "んだって",
+    "comment": "they say that ~ (casual)"
+  },
+  {
+    "title": "に当たる",
+    "comment": "to correspond to; to be equivalent to"
+  },
+  {
+    "title": "に合わせて",
+    "comment": "to match; to adapt to"
+  },
+  {
+    "title": "に違いない",
+    "comment": "must be; no doubt"
+  },
+  {
+    "title": "に反して",
+    "comment": "against; contrary to"
+  },
+  {
+    "title": "にかけて",
+    "comment": "over a period; toward"
+  },
+  {
+    "title": "にかけては",
+    "comment": "as for ~; when it comes to"
+  },
+  {
+    "title": "に関する",
+    "comment": "about; concerning"
+  },
+  {
+    "title": "に代わって",
+    "comment": "instead of; on behalf of"
+  },
+  {
+    "title": "に比べて",
+    "comment": "compared to"
+  },
+  {
+    "title": "に慣れる",
+    "comment": "to get used to"
+  },
+  {
+    "title": "において",
+    "comment": "in; at (formal)"
+  },
+  {
+    "title": "にしては",
+    "comment": "for ~ (unexpected)"
+  },
+  {
+    "title": "にしても",
+    "comment": "even for; even though"
+  },
+  {
+    "title": "に対して",
+    "comment": "toward; against; in contrast to"
+  },
+  {
+    "title": "に従い",
+    "comment": "according to; following"
+  },
+  {
+    "title": "にとって",
+    "comment": "for (from perspective of)"
+  },
+  {
+    "title": "について",
+    "comment": "about; regarding"
+  },
+  {
+    "title": "には",
+    "comment": "as for; regarding"
+  },
+  {
+    "title": "につれて",
+    "comment": "as ~ happens, ~ also changes"
+  },
+  {
+    "title": "によると",
+    "comment": "according to (source)"
+  },
+  {
+    "title": "による",
+    "comment": "due to; depending on"
+  },
+  {
+    "title": "のでしょうか",
+    "comment": "I wonder if; polite question"
+  },
+  {
+    "title": "を中心に",
+    "comment": "centered on; mainly"
+  },
+  {
+    "title": "をはじめて",
+    "comment": "starting with; beginning with"
+  },
+  {
+    "title": "を込めて",
+    "comment": "with (feeling); put into"
+  },
+  {
+    "title": "を通じて",
+    "comment": "through; via; over"
+  },
+  {
+    "title": "おかげで",
+    "comment": "thanks to ~ (positive)"
+  },
+  {
+    "title": "おきに",
+    "comment": "every ~ (interval)"
+  },
+  {
+    "title": "の Double Particles",
+    "comment": "double particle usage of の"
+  },
+  {
+    "title": "っぱなし",
+    "comment": "leaving something on; continuous state"
+  },
+  {
+    "title": "っぽい",
+    "comment": "-ish; like; prone to"
+  },
+  {
+    "title": "さえ",
+    "comment": "even"
+  },
+  {
+    "title": "さえ～ば",
+    "comment": "if only ~; as long as ~"
+  },
+  {
+    "title": "際に",
+    "comment": "on the occasion of"
+  },
+  {
+    "title": "最中に",
+    "comment": "right in the middle of"
+  },
+  {
+    "title": "さて",
+    "comment": "well then; now"
+  },
+  {
+    "title": "さらに",
+    "comment": "furthermore; more"
+  },
+  {
+    "title": "せいで",
+    "comment": "because of (negative cause)"
+  },
+  {
+    "title": "せいぜい",
+    "comment": "at most; only"
+  },
+  {
+    "title": "しばらく",
+    "comment": "for a while; momentarily"
+  },
+  {
+    "title": "しかない",
+    "comment": "have no choice but to"
+  },
+  {
+    "title": "そこで",
+    "comment": "so; therefore; because of that"
+  },
+  {
+    "title": "それとも",
+    "comment": "or; or else"
+  },
+  {
+    "title": "すでに",
+    "comment": "already"
+  },
+  {
+    "title": "そうもない",
+    "comment": "very unlikely to"
+  },
+  {
+    "title": "すなわち",
+    "comment": "in other words; that is"
+  },
+  {
+    "title": "すると",
+    "comment": "thereupon; then"
+  },
+  {
+    "title": "Amount + は",
+    "comment": "at least ~ (emphasis)"
+  },
+  {
+    "title": "たびに",
+    "comment": "every time; whenever"
+  },
+  {
+    "title": "ために",
+    "comment": "for the sake of; in order to"
+  },
+  {
+    "title": "そのために",
+    "comment": "because of that; for that reason"
+  },
+  {
+    "title": "たもので",
+    "comment": "because (giving excuse)"
+  },
+  {
+    "title": "たとたん",
+    "comment": "as soon as"
+  },
+  {
+    "title": "確かに",
+    "comment": "surely; certainly"
+  },
+  {
+    "title": "たて",
+    "comment": "just ~ed; freshly"
+  },
+  {
+    "title": "例え～ても",
+    "comment": "even if ~"
+  },
+  {
+    "title": "例えば",
+    "comment": "for example"
+  },
+  {
+    "title": "たって",
+    "comment": "even if (casual)"
+  },
+  {
+    "title": "てごらん",
+    "comment": "try doing (casual)"
+  },
+  {
+    "title": "てばかりいる",
+    "comment": "always doing; doing only"
+  },
+  {
+    "title": "てはじめて",
+    "comment": "only after ~ happened"
+  },
+  {
+    "title": "てからでないと",
+    "comment": "unless you ~ first, then ~"
+  },
+  {
+    "title": "てしょうがない",
+    "comment": "can’t help but ~; extremely ~"
+  },
+  {
+    "title": "て済む",
+    "comment": "to get away with ~"
+  },
+  {
+    "title": "てはいけないから",
+    "comment": "because one must not ~"
+  },
+  {
+    "title": "的",
+    "comment": "-like; -al (nominal modifier)"
+  },
+  {
+    "title": "ている場合じゃない",
+    "comment": "no time for ~"
+  },
+  {
+    "title": "ても始まらない",
+    "comment": "it’s useless even if ~"
+  },
+  {
+    "title": "てもかまわない",
+    "comment": "it’s okay even if ~"
+  },
+  {
+    "title": "てもしょうがない",
+    "comment": "it can’t be helped"
+  },
+  {
+    "title": "と同じで",
+    "comment": "just like; same as"
+  },
+  {
+    "title": "と違って",
+    "comment": "unlike; different from"
+  },
+  {
+    "title": "と言える",
+    "comment": "can say that ~"
+  },
+  {
+    "title": "と言えば",
+    "comment": "speaking of ~"
+  },
+  {
+    "title": "といい・たらいい",
+    "comment": "it would be good if ~"
+  },
+  {
+    "title": "と言ってもいい",
+    "comment": "you could say that ~"
+  },
+  {
+    "title": "ということだ",
+    "comment": "it means that; in other words"
+  },
+  {
+    "title": "というのは",
+    "comment": "the reason is that; because"
+  },
+  {
+    "title": "というと",
+    "comment": "when you say ~; speaking of ~"
+  },
+  {
+    "title": "というより",
+    "comment": "rather than ~"
+  },
+  {
+    "title": "となっている",
+    "comment": "is set to; has become"
+  },
+  {
+    "title": "と同じくらい",
+    "comment": "about as ~ as"
+  },
+  {
+    "title": "と共に",
+    "comment": "together with"
+  },
+  {
+    "title": "と見える",
+    "comment": "apparently; it seems"
+  },
+  {
+    "title": "と並んで",
+    "comment": "along with"
+  },
+  {
+    "title": "とすると",
+    "comment": "if we assume that ~"
+  },
+  {
+    "title": "途中に・で",
+    "comment": "on the way; mid-activity"
+  },
+  {
+    "title": "ところで",
+    "comment": "by the way; incidentally"
+  },
+  {
+    "title": "通り",
+    "comment": "in accordance with; as"
+  },
+  {
+    "title": "ところが",
+    "comment": "however; even so"
+  },
+  {
+    "title": "通す",
+    "comment": "to go through; carry out"
+  },
+  {
+    "title": "として",
+    "comment": "as (a role, position)"
+  },
+  {
+    "title": "とても～ない",
+    "comment": "cannot possibly ~"
+  },
+  {
+    "title": "とは限らない",
+    "comment": "not necessarily ~"
+  },
+  {
+    "title": "ついに",
+    "comment": "finally; at last"
+  },
+  {
+    "title": "つい",
+    "comment": "just (now); by accident"
+  },
+  {
+    "title": "ついでに",
+    "comment": "while you’re at it; incidentally"
+  },
+  {
+    "title": "つまり",
+    "comment": "in short; in other words"
+  },
+  {
+    "title": "つもりで",
+    "comment": "with the intention of ~"
+  },
+  {
+    "title": "つもりだった",
+    "comment": "had intended to ~"
+  },
+  {
+    "title": "うちに",
+    "comment": "while; before it changes"
+  },
+  {
+    "title": "ないうちに",
+    "comment": "before not doing; before ~ ends"
+  },
+  {
+    "title": "上で",
+    "comment": "after doing; upon"
+  },
+  {
+    "title": "上に",
+    "comment": "not only ~ but also"
+  },
+  {
+    "title": "は別として",
+    "comment": "apart from ~; leaving aside ~"
+  },
+  {
+    "title": "はもちろん",
+    "comment": "~, and also ~; not only ~"
+  },
+  {
+    "title": "は～で有名",
+    "comment": "famous for ~"
+  },
+  {
+    "title": "訳だ",
+    "comment": "that’s why; it means that ~"
+  },
+  {
+    "title": "訳ではない",
+    "comment": "it doesn’t mean that ~"
+  },
+  {
+    "title": "訳がない",
+    "comment": "there’s no way that ~"
+  },
+  {
+    "title": "訳にはいかない",
+    "comment": "cannot afford to ~"
+  },
+  {
+    "title": "わざわざ",
+    "comment": "going out of one’s way to ~"
+  },
+  {
+    "title": "よりも",
+    "comment": "rather than; more than"
+  },
+  {
+    "title": "割に",
+    "comment": "comparatively; although"
+  },
+  {
+    "title": "わざと",
+    "comment": "on purpose; intentionally"
+  },
+  {
+    "title": "ように",
+    "comment": "so that; in order to"
+  },
+  {
+    "title": "ようがない",
+    "comment": "no way to ~; can’t possibly ~"
+  },
+  {
+    "title": "ような気がする",
+    "comment": "feel like; have a feeling that ~"
+  },
+  {
+    "title": "ようとする",
+    "comment": "to try to ~"
+  },
+  {
+    "title": "ように見える",
+    "comment": "seems; appears like"
+  },
+  {
+    "title": "ずに",
+    "comment": "without doing"
+  },
+  {
+    "title": "ずにはいられない",
+    "comment": "can’t help but ~"
+  },
+  {
+    "title": "ずつ",
+    "comment": "each; one by one"
+  },
+  {
+    "title": "ずっと",
+    "comment": "continuously; much more"
+  }
+]

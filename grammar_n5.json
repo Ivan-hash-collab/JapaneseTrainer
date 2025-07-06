@@ -1,0 +1,418 @@
+[
+  {
+    "title": "ちゃいけない",
+    "comment": "must not do (spoken Japanese)"
+  },
+  {
+    "title": "じゃいけない",
+    "comment": "must not do (spoken Japanese)"
+  },
+  {
+    "title": "じゃだめ",
+    "comment": "must not do (spoken Japanese)"
+  },
+  {
+    "title": "です",
+    "comment": "to be (am, is, are, were, used to)"
+  },
+  {
+    "title": "だ-",
+    "comment": "to be (am, is, are, were, used to)"
+  },
+  {
+    "title": "だから",
+    "comment": "because"
+  },
+  {
+    "title": "だけ",
+    "comment": "only; just; as much as~"
+  },
+  {
+    "title": "でしょう",
+    "comment": "I think; it seems; probably; right?"
+  },
+  {
+    "title": "だろう",
+    "comment": "I think; it seems; probably; right?"
+  },
+  {
+    "title": "で (de)",
+    "comment": "1: at, in"
+  },
+  {
+    "title": "で (de) (2)",
+    "comment": "2: with, by"
+  },
+  {
+    "title": "でも",
+    "comment": "but; however; though~"
+  },
+  {
+    "title": "どんな",
+    "comment": "what kind of; what sort of"
+  },
+  {
+    "title": "どうして",
+    "comment": "why; for what reason; how"
+  },
+  {
+    "title": "どうやって",
+    "comment": "how; in what way; by what means​"
+  },
+  {
+    "title": "が (ga)",
+    "comment": "1: subject marker"
+  },
+  {
+    "title": "が",
+    "comment": "but, however"
+  },
+  {
+    "title": "があります",
+    "comment": "there is; is (non-living things)"
+  },
+  {
+    "title": "がいます",
+    "comment": "there is; to be; is (living things)"
+  },
+  {
+    "title": "がほしい",
+    "comment": "to want something"
+  },
+  {
+    "title": "ほうがいい",
+    "comment": "had better; it'd be better to; should~"
+  },
+  {
+    "title": "い-adjectives",
+    "comment": "i-adjectives"
+  },
+  {
+    "title": "一番（いちばん）-",
+    "comment": "the most; the best"
+  },
+  {
+    "title": "一緒に（いっしょに）-",
+    "comment": "together"
+  },
+  {
+    "title": "いつも",
+    "comment": "always; usually; habitually"
+  },
+  {
+    "title": "ではない",
+    "comment": "to not be (am not; is not; are not)"
+  },
+  {
+    "title": "じゃない",
+    "comment": "to not be (am not; is not; are not)"
+  },
+  {
+    "title": "か",
+    "comment": "question particle"
+  },
+  {
+    "title": "か～か",
+    "comment": "or"
+  },
+  {
+    "title": "から",
+    "comment": "from"
+  },
+  {
+    "title": "方（かた）-",
+    "comment": "the way of doing something; how to do"
+  },
+  {
+    "title": "けど",
+    "comment": "but; however; although~"
+  },
+  {
+    "title": "けれども",
+    "comment": "but; however; although~"
+  },
+  {
+    "title": "Noun",
+    "comment": "+ くらい/ぐらい- about, approximately"
+  },
+  {
+    "title": "Noun + くらい/ぐらい",
+    "comment": "at least, at the very least"
+  },
+  {
+    "title": "まだ",
+    "comment": "still; not yet"
+  },
+  {
+    "title": "まだ～ていません",
+    "comment": "have not yet~"
+  },
+  {
+    "title": "まで",
+    "comment": "until; as far as; to (an extent); even~"
+  },
+  {
+    "title": "前に（まえに）-",
+    "comment": "before; in front of~"
+  },
+  {
+    "title": "ませんか",
+    "comment": "would you; do you want to; shall we~"
+  },
+  {
+    "title": "ましょう",
+    "comment": "let's ~; shall we ~"
+  },
+  {
+    "title": "ましょうか",
+    "comment": "shall I ~; used to offer help to the listener"
+  },
+  {
+    "title": "も",
+    "comment": "too; also; as well"
+  },
+  {
+    "title": "もう",
+    "comment": "again; another"
+  },
+  {
+    "title": "もう (2)",
+    "comment": "anymore; (no) longer"
+  },
+  {
+    "title": "な-adjectives",
+    "comment": "na-adjectives"
+  },
+  {
+    "title": "な",
+    "comment": "don’t do"
+  },
+  {
+    "title": "なあ",
+    "comment": "sentence ending particle; confirmation; admiration, etc"
+  },
+  {
+    "title": "ないで",
+    "comment": "without doing~ ; To do [B] without doing [A]"
+  },
+  {
+    "title": "ないで (2)",
+    "comment": "don't do"
+  },
+  {
+    "title": "ないでください",
+    "comment": "please don't do"
+  },
+  {
+    "title": "ないといけない",
+    "comment": "must do; have an obligation to do"
+  },
+  {
+    "title": "なくてはいけない",
+    "comment": "must do; need to do"
+  },
+  {
+    "title": "なくてはならない",
+    "comment": "must do; need to do"
+  },
+  {
+    "title": "なくちゃ",
+    "comment": "must do; need to; gotta do"
+  },
+  {
+    "title": "なくてもいい",
+    "comment": "don't have to"
+  },
+  {
+    "title": "なる",
+    "comment": "to become"
+  },
+  {
+    "title": "のです",
+    "comment": "to explain something; show emphasis"
+  },
+  {
+    "title": "んです",
+    "comment": "to explain something; show emphasis"
+  },
+  {
+    "title": "ね",
+    "comment": "isn't it? right? eh?"
+  },
+  {
+    "title": "に",
+    "comment": "destination particle; in; at; on; to"
+  },
+  {
+    "title": "に (2)",
+    "comment": "at (time/place)"
+  },
+  {
+    "title": "に (3)",
+    "comment": "to (indicates direction / destination)"
+  },
+  {
+    "title": "に/へ",
+    "comment": "to (indicates direction / destination)"
+  },
+  {
+    "title": "にいく",
+    "comment": "go to do (verb)"
+  },
+  {
+    "title": "にいく (2)",
+    "comment": "go to do (noun)"
+  },
+  {
+    "title": "にする",
+    "comment": "to decide on"
+  },
+  {
+    "title": "の",
+    "comment": "possessive particle"
+  },
+  {
+    "title": "の (2)",
+    "comment": "verb nomalizer"
+  },
+  {
+    "title": "のが下手（のがへた）-",
+    "comment": "to be bad at doing something"
+  },
+  {
+    "title": "のが上手（のがじょうず）-",
+    "comment": "to be good at"
+  },
+  {
+    "title": "のが好き（のがすき）-",
+    "comment": "to like doing something"
+  },
+  {
+    "title": "ので",
+    "comment": "because of; given that; since"
+  },
+  {
+    "title": "お",
+    "comment": "polite marker; honorific prefix particle"
+  },
+  {
+    "title": "ご",
+    "comment": "polite marker; honorific prefix particle"
+  },
+  {
+    "title": "を",
+    "comment": "object marker particle"
+  },
+  {
+    "title": "をください",
+    "comment": "please give me~"
+  },
+  {
+    "title": "しかし",
+    "comment": "but; however~"
+  },
+  {
+    "title": "それから",
+    "comment": "and; and then; after that; since then"
+  },
+  {
+    "title": "そして",
+    "comment": "and; and then; thus; and now~"
+  },
+  {
+    "title": "すぎる",
+    "comment": "too much"
+  },
+  {
+    "title": "たことがある",
+    "comment": "to have done something before"
+  },
+  {
+    "title": "たことがない",
+    "comment": "to have never done something before"
+  },
+  {
+    "title": "たい",
+    "comment": "want to do something"
+  },
+  {
+    "title": "たり～たり",
+    "comment": "do such things as A and B"
+  },
+  {
+    "title": "たり",
+    "comment": "do such things as A"
+  },
+  {
+    "title": "てある",
+    "comment": "is/has been done (resulting state)"
+  },
+  {
+    "title": "ている",
+    "comment": "ongoing action or current state"
+  },
+  {
+    "title": "てから",
+    "comment": "after doing~"
+  },
+  {
+    "title": "てください",
+    "comment": "please do"
+  },
+  {
+    "title": "てはいけない",
+    "comment": "must not; may not; cannot"
+  },
+  {
+    "title": "てもいい ・ていい",
+    "comment": "is okay, is alright to, can, may"
+  },
+  {
+    "title": "と",
+    "comment": "and;"
+  },
+  {
+    "title": "と (2)",
+    "comment": "with"
+  },
+  {
+    "title": "と (3)",
+    "comment": "as"
+  },
+  {
+    "title": "とき",
+    "comment": "when; at this time"
+  },
+  {
+    "title": "とても",
+    "comment": "very; awfully; exceedingly​"
+  },
+  {
+    "title": "つもり",
+    "comment": "plan to ~; intend to ~"
+  },
+  {
+    "title": "は",
+    "comment": "topic marker"
+  },
+  {
+    "title": "は〜より・・・です",
+    "comment": "[A] is more ~ than [B]"
+  },
+  {
+    "title": "はどうですか",
+    "comment": "how about; how is"
+  },
+  {
+    "title": "や",
+    "comment": "and; or; connecting particle"
+  },
+  {
+    "title": "よ",
+    "comment": "you know; emphasis (ending particle)"
+  },
+  {
+    "title": "より～ほうが",
+    "comment": "[A] is more than [B]"
+  }
+]
